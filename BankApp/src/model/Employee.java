@@ -7,7 +7,6 @@ public class Employee extends Client {
 
 	public Employee(long uid, String name, String surname, Account account) {
 		super(uid, name, surname, account);
-		// TODO Auto-generated constructor stub
 	}
 
 	public Employee(long uid, String name, String surname, Account account, String position, String depName,
