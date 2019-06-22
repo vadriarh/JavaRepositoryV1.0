@@ -15,6 +15,7 @@ public class Employee extends Client {
 		this.position = position;
 		this.depName = depName;
 		this.salary = salary;
+		//salary
 	}
 
 	public String getPosition() {
