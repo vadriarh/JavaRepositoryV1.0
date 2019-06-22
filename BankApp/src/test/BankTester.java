@@ -21,6 +21,7 @@ public class BankTester {
 //		AccountServices.withdraw(cl1, 65000);
 //		ClientServices.info(cl1);
 
+
 		Client cl2 = new Client(1232458411, "Lisa", null);
 		cl2.setAccount(new Account("MT564132582580005845", "BYN"));
 		cl2.getAccount().setBalance(15000);
